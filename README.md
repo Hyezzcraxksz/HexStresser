@@ -10,7 +10,7 @@ HexStresser is a high-performance UDP flood tool designed to stress-test servers
 - **Customizable settings** including target IP, port, packet size, and thread count.
 - **Dynamic progress display** showing the current thread count in "K" format (e.g., 1K, 10K).
 - 
-  ![Demo](https://media.giphy.com/media/3oEjHQxSq1ZSBXZgeQ/giphy.gif
+  ![Demo](https://media.giphy.com/media/3oEjHQxSq1ZSBXZgeQ/giphy.gif)
 
 ## Requirements
 
