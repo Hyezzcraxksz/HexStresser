@@ -17,11 +17,6 @@ HexStresser is a high-performance UDP flood tool designed to stress-test servers
 - Python 3.x
 - No external libraries required (uses only built-in Python modules).
 
-## Installation
-
-1. Download the `hexstresser.py` file to your local machine.
-2. Ensure you have Python 3.x installed on your system.
-
 ## Usage
 
 1. Open a terminal window.
